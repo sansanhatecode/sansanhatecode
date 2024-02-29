@@ -1,4 +1,6 @@
 ### Hi there 👋
+💻 Tech Stack:
+C C# C++ CSS3 HTML5 Java JavaScript LaTeX Octave Objective-C Markdown Python PowerShell Windows Terminal TypeScript AWS Azure Heroku .Net Ant-Design Chakra React Router React Query React Native React React Hook Form Redux Spring SolidJS SASS Web3.js Yarn Vue.js TailwindCSS Next JS NPM jQuery JWT MUI Postgres MySQL MicrosoftSQLServer Canva Figma NumPy GIT LINUX ESLint Trello Postman Jira
 
 <!--
 **sansanhatecode/sansanhatecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
