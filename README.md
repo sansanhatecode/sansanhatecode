@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7f/29/1d/7f291d2207f694b75332e6ee36aa59da.jpg">
 
-- 🔭 I’m currently working at **Mirabo Global**
+- 🔭 I’m currently working at **Mirabo Global** as a **Frontend Developer Intern**
 
 - 🌱 I’m currently learning **Backend**
 
@@ -15,6 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/iamsan_198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.facebook.com/linhlinhiuh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sansan" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sansan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
