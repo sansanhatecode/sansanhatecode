@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web developer**
 
-- 📫 How to reach me **bnhlinh20030@gmail.com**
+- 📫 How to reach me **bnhlinh2003@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
