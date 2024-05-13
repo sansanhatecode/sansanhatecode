@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Kieu Linh</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7f/29/1d/7f291d2207f694b75332e6ee36aa59da.jpg">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sansanhatecode">
+  <img src="https://shields.io/github/stars/sansanhatecode">
+  <img src="https://img.shields.io/github/followers/sansanhatecode">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
+</p>
 
 - 🔭 I’m currently working at **Mirabo Global** as a **Frontend Developer Intern**
 
