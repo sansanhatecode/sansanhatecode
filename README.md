@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
 
-- 🔭 I’m currently working at **Mirabo Global** as a **Frontend Developer Intern**
+- 🔭 I’m currently working at **Upp Technology Global JSC** as a **Frontend Developer Intern**
 
 - 🌱 I’m currently learning **Backend**
 
