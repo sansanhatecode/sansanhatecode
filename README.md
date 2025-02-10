@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Web developer**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **bnhlinh2003@gmail.com**
 
