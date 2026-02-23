@@ -1,15 +1,11 @@
 <!-- HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55" width="100%"/>
 
 <!-- ABOUT ME -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+I'm+Nguyen+Kieu+Linh+%F0%9F%91%8B;Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+I'm+Nguyen+Kieu+Linh+%F0%9F%91%8B;Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs" alt="Typing SVG" />
   </picture>
 </div>
@@ -203,11 +199,7 @@
 <br/>
 
 <!-- FOOTER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <b>Thanks for visiting! 👋</b>
