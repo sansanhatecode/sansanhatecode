@@ -13,15 +13,15 @@
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="20"/> &nbsp;Fullstack Developer with **3+ years** of experience
+👩‍💻 &nbsp;Fullstack Developer with **3+ years** of experience
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="20"/> &nbsp;Based in **Ha Noi, Vietnam**
+📍 &nbsp;Based in **Ha Noi, Vietnam**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20"/> &nbsp;**HUST** - Hanoi University of Science & Technology (HEDSPI)
+🎓 &nbsp;**HUST** - Hanoi University of Science & Technology (HEDSPI)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20"/> &nbsp;Vietnamese | English (IELTS 6.5) | Japanese (N3)
+🗣️ &nbsp;Vietnamese | English (IELTS 6.5) | Japanese (N3)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> &nbsp;Currently building **real-time crypto trading platforms**
+🚀 &nbsp;Currently building **real-time crypto trading platforms**
 
 </td>
 </tr>
