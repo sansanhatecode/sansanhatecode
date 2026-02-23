@@ -1,9 +1,17 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=200&section=header&text=Hi%20there!%20I'm%20Nguyen%20Kieu%20Linh%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%2F%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript&descSize=16&descColor=ffffff&descAlignY=55" width="100%"/>
+</picture>
 
 <!-- ABOUT ME -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=580&lines=Fullstack+Developer+%7C+3%2B+years+of+experience;React+%2F+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+real-time+trading+platforms;Pixel-perfect+UI+%E2%9C%A8+Scalable+APIs" alt="Typing SVG" />
+  </picture>
 </div>
 
 <br/>
@@ -48,10 +56,7 @@
 <br/>
 
 <!-- TECH STACK -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/>
-  &nbsp;Tech Stack
-</h2>
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -121,68 +126,91 @@
 ---
 
 <!-- STATS -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/>
-  &nbsp;GitHub Stats
-</h2>
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sansanhatecode&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sansanhatecode&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sansanhatecode&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sansanhatecode&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sansanhatecode&theme=tokyonight" height="180" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sansanhatecode&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sansanhatecode&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sansanhatecode&theme=tokyonight" height="180" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sansanhatecode&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F97316&currStreakLabel=8B5CF6&sideLabels=a9b1d6&currStreakNum=EC4899&sideNums=a9b1d6&dates=6366a1" alt="GitHub Streak" width="60%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sansanhatecode&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F97316&currStreakLabel=8B5CF6&sideLabels=a9b1d6&currStreakNum=EC4899&sideNums=a9b1d6&dates=6366a1"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sansanhatecode&theme=default&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=64748b&currStreakNum=8B5CF6&sideNums=64748b&dates=94a3b8"/>
+    <img src="https://streak-stats.demolab.com?user=sansanhatecode&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F97316&currStreakLabel=8B5CF6&sideLabels=a9b1d6&currStreakNum=EC4899&sideNums=a9b1d6&dates=6366a1" alt="GitHub Streak" width="60%"/>
+  </picture>
 </div>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/>
-  &nbsp;Contribution Graph
-</h2>
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sansanhatecode&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sansanhatecode&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Timeline"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sansanhatecode&bg_color=ffffff&color=6D28D9&line=EC4899&point=F97316&area=true&area_color=DDD6FE&hide_border=true&custom_title=Contribution%20Timeline"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sansanhatecode&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  </picture>
 </div>
 
 ---
 
 <!-- PROFILE DETAILS -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/>
-  &nbsp;Profile Details
-</h2>
+## 🏆 &nbsp;Profile Details
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansanhatecode&theme=tokyonight" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansanhatecode&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansanhatecode&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansanhatecode&theme=tokyonight" width="90%"/>
+  </picture>
 </div>
 
 ---
 
 <!-- SNAKE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sansanhatecode/sansanhatecode/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sansanhatecode/sansanhatecode/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sansanhatecode/sansanhatecode/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/sansanhatecode/sansanhatecode/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  </picture>
 </div>
 
 ---
 
 <!-- QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%"/>
+  </picture>
 </div>
 
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
+</picture>
 
 <div align="center">
-  <b>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20"/></b>
+  <b>Thanks for visiting! 👋</b>
   <br/>
   <sub>From <a href="https://github.com/sansanhatecode">sansanhatecode</a> with 💜</sub>
 </div>
