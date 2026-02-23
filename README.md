@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nguyen Kieu Linh</h1>
-<h3 align="center">✨ Full Stack Developer from Vietnam ✨</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -75,11 +74,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sansanhatecode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansanhatecode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sansanhatecode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
