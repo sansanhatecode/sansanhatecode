@@ -37,7 +37,7 @@
   <a href="mailto:bnhlinh2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nguyenkieulinh/" target="_blank">
+  <a href="[https://www.linkedin.com/in/nguyenkieulinh/](https://www.linkedin.com/in/nguy%E1%BB%85n-ki%E1%BB%81u-linh-7934532bb/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/linhlinhiuh/" target="_blank">
