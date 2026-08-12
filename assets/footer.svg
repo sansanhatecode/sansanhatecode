@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fLine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="75%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="waveA" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+
+    <linearGradient id="thanksGrad" gradientUnits="userSpaceOnUse" x1="460" y1="0" x2="740" y2="0" spreadMethod="reflect">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="50%" stop-color="#F472B6"/>
+      <stop offset="100%" stop-color="#FB923C"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-180 0; 180 0; -180 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="fSoften" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="190" fill="#0D1117"/>
+
+  <!-- Top hairline -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#fLine)"/>
+
+  <!-- Glow -->
+  <g filter="url(#fSoften)" opacity="0.4">
+    <ellipse cx="400" cy="185" rx="260" ry="80" fill="#8B5CF6">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 60 0; -40 0; 0 0" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="820" cy="190" rx="260" ry="80" fill="#F97316">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -50 0; 40 0; 0 0" dur="21s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Thanks -->
+  <text x="600" y="74" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="700" letter-spacing="1" fill="url(#thanksGrad)">
+    Thanks for visiting!
+  </text>
+
+  <text x="600" y="102" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="13" letter-spacing="3" fill="#8B949E">
+    LET'S BUILD SOMETHING TOGETHER
+  </text>
+
+  <!-- Pulsing heart -->
+  <g transform="translate(600 126)">
+    <path d="M0,9 C-9,1 -14,-4 -14,-9 C-14,-14 -10,-17 -6,-17 C-3,-17 -1,-15 0,-13 C1,-15 3,-17 6,-17 C10,-17 14,-14 14,-9 C14,-4 9,1 0,9 Z"
+          fill="#EC4899" transform="scale(0.62)">
+      <animateTransform attributeName="transform" type="scale"
+        values="0.62;0.76;0.62" dur="1.6s" repeatCount="indefinite" additive="sum"/>
+    </path>
+  </g>
+
+  <!-- Waves -->
+  <g opacity="0.85">
+    <path fill="url(#waveA)" fill-opacity="0.28"
+          d="M0,150 C150,120 300,180 450,150 C600,120 750,180 900,150 C1050,120 1150,165 1200,150 L1200,190 L0,190 Z">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -40 0; 0 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#waveA)" fill-opacity="0.5"
+          d="M0,163 C150,140 300,190 450,166 C600,142 750,192 900,166 C1050,142 1150,176 1200,163 L1200,190 L0,190 Z">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 40 0; 0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

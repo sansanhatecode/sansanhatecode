@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Nguyen Kieu Linh - Full Stack Engineer">
+  <defs>
+    <!-- Palette: violet -> pink -> orange -->
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="380" y1="0" x2="820" y2="0" spreadMethod="reflect">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="45%" stop-color="#F472B6"/>
+      <stop offset="100%" stop-color="#FB923C"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-260 0; 260 0; -260 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="75%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="ruleGrad" gradientUnits="userSpaceOnUse" x1="450" y1="0" x2="750" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="soften" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="58"/>
+    </filter>
+
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#8B5CF6" fill-opacity="0.16"/>
+    </pattern>
+
+    <linearGradient id="fadeMask" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="280">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="dotMask">
+      <rect width="1200" height="280" fill="url(#fadeMask)"/>
+    </mask>
+  </defs>
+
+  <!-- Canvas -->
+  <rect width="1200" height="280" fill="#0D1117"/>
+
+  <!-- Aurora -->
+  <g filter="url(#soften)" opacity="0.55">
+    <ellipse cx="270" cy="90" rx="230" ry="120" fill="#8B5CF6">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 70 26; -34 14; 0 0" dur="16s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="620" cy="200" rx="260" ry="120" fill="#EC4899">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -60 -26; 44 12; 0 0" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="960" cy="80" rx="220" ry="112" fill="#F97316">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 40 34; -50 -14; 0 0" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Dot grid -->
+  <rect width="1200" height="280" fill="url(#dots)" mask="url(#dotMask)"/>
+
+  <!-- Name -->
+  <text x="600" y="122" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="62" font-weight="700" letter-spacing="2" fill="url(#nameGrad)">
+    NGUYEN KIEU LINH
+  </text>
+
+  <!-- Animated rule under the name -->
+  <rect x="450" y="140" width="300" height="2" rx="1" fill="url(#ruleGrad)">
+    <animate attributeName="width" values="0;300;300" dur="2.4s" fill="freeze"/>
+    <animate attributeName="x" values="600;450;450" dur="2.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Role -->
+  <text x="600" y="176" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="600" letter-spacing="7" fill="#C9D1D9" fill-opacity="0.92">
+    FULL STACK ENGINEER
+  </text>
+
+  <!-- Tech chips -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <g>
+      <rect x="364" y="202" width="70" height="28" rx="14" fill="#161B22" stroke="#8B5CF6" stroke-opacity="0.45"/>
+      <text x="399" y="221" text-anchor="middle" fill="#A78BFA">React</text>
+    </g>
+    <g>
+      <rect x="446" y="202" width="78" height="28" rx="14" fill="#161B22" stroke="#A855F7" stroke-opacity="0.45"/>
+      <text x="485" y="221" text-anchor="middle" fill="#C4B5FD">Next.js</text>
+    </g>
+    <g>
+      <rect x="536" y="202" width="76" height="28" rx="14" fill="#161B22" stroke="#EC4899" stroke-opacity="0.45"/>
+      <text x="574" y="221" text-anchor="middle" fill="#F9A8D4">NestJS</text>
+    </g>
+    <g>
+      <rect x="624" y="202" width="95" height="28" rx="14" fill="#161B22" stroke="#F472B6" stroke-opacity="0.45"/>
+      <text x="671" y="221" text-anchor="middle" fill="#FBCFE8">TypeScript</text>
+    </g>
+    <g>
+      <rect x="731" y="202" width="105" height="28" rx="14" fill="#161B22" stroke="#F97316" stroke-opacity="0.45"/>
+      <text x="783" y="221" text-anchor="middle" fill="#FDBA74">PostgreSQL</text>
+    </g>
+  </g>
+
+  <!-- Bottom hairline -->
+  <rect x="0" y="277" width="1200" height="3" fill="url(#lineGrad)"/>
+</svg>
